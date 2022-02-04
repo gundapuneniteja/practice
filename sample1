@@ -1,5 +1,4 @@
-this is sample1
-ok
-okk
-thank you
-ok
+echo "this is sample"
+hostname
+pwd
+sleep 10
